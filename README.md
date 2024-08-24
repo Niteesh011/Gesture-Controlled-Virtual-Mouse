@@ -2,7 +2,6 @@
 
 This project implements a **Gesture Controlled Virtual Mouse** using hand tracking technology. The system uses a webcam to detect hand gestures, which are then mapped to mouse actions, such as moving the cursor, clicking, scrolling, and controlling system features like brightness and volume.
 
-![Demo](screenshot.png) <!-- Replace with actual demo GIF or screenshot -->
 
 ## Table of Contents
 - [Overview](#overview)
